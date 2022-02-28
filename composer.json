@@ -1,0 +1,16 @@
+{
+    "name": "liangqiyao/date-helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liangqiyao",
+            "email": "liangqiyao@huazhen2008.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Lqy\\":"src/"
+        }
+    }
+}
